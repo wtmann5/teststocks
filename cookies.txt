@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.canva.com	TRUE	/	FALSE	1999999999	CDI	8bd2ae11-7319-447b-9b83-0df2d0b9f461
+www.canva.com	TRUE	/	FALSE	1999999999	CPA	84gyIGpf25DsprIiz0vVFQGm_fX2uH0UeVEApJQEzfIlGf_wnZ3ytoP-RgQ4VxDJlbgOmZmvztv410gdsAGlOL45UQHzEPms53yEb2nh3rUWYMM__fxWYxPssIVR-4swq7vn68uGmf02dBpTVPa9tuc8KdvgfH7Ua8lFcT4ApSdU5QFfIhv2hkNFaH_TSM82O-G6L7892DLwZeh5IcV4aW7TSEIKm6_ilHeWYaavM5B1RWKvf2MGgiEXQ-3OVH1cR0g6LPs-lknV_kMOnRSHFAilDeRw76Raf1vU4v7r7aG654WOI1pWaP0ofqyBvo_CEFmspePIvaaLeaUQvK_S_aNRqSCKQk3z7fc1_XyNYKJeXI4Aq4HkkZeItUuT2YmceFE3wliMs-jVREK6kWp9-FOXJm1S3fvgA9Itk05nvnl9ikdn11E0nqnV_Erq74ycFSkqOQ
+www.canva.com	TRUE	/	FALSE	1999999999	CCK	f7MKb-hJtcc79jKIYKNwhg
+.canva.com	TRUE	/	FALSE	1999999999	__cf_bm	0a553fa14025dd0086c7b4065d97e3176618b0cc-1627552127-1800-ATOmk3ihqNj8BC89EFxKYOrG2Lmgy3sxIIJHt2gGjt8c+E6NkoyYt4iOqkfLQ0UvHYO2Bcdbb+oVJwc29QL6+wU=
+www.canva.com	TRUE	/	FALSE	1999999999	SameSite	None
+
